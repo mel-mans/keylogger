@@ -1,2 +1,2 @@
 ## Basic keylogger
-Stores key logs wit timestamps in a keylog.txt file
+Stores key logs with timestamps in a keylog.txt file
